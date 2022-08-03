@@ -1,5 +1,3 @@
-es (18 sloc)  520 Bytes
-
 #include <iostream>
 
 using namespace std;
